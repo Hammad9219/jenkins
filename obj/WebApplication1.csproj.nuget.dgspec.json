@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\mohammad-hammad\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\jenkins\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\mohammad-hammad\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\jenkins\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mohammad-hammad\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\jenkins\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\mohammad-hammad\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\jenkins\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\mohammadhammad\\.nuget\\packages\\",
-        "outputPath": "D:\\mohammad-hammad\\WebApplication1\\obj\\",
+        "outputPath": "D:\\jenkins\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
