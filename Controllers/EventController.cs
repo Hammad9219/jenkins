@@ -17,7 +17,6 @@ namespace WebApplication1.Controllers
         {
             var data = await _eventRespository.GetEvents();
             return View(data);
-            7/90
         }
 
         public ViewResult CreateEvent(bool isSuccess = false)
