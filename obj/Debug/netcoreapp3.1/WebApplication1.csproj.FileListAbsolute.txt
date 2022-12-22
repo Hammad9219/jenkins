@@ -876,7 +876,6 @@ D:\mohammad-hammad\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.cspro
 D:\mohammad-hammad\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
 D:\mohammad-hammad\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
 D:\mohammad-hammad\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
-D:\jenkins\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
 D:\jenkins\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
 D:\jenkins\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
 D:\jenkins\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
@@ -1315,3 +1314,4 @@ D:\jenkins\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
 D:\jenkins\obj\Debug\netcoreapp3.1\WebApplication1.Views.pdb
 D:\jenkins\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
 D:\jenkins\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\jenkins\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache

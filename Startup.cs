@@ -30,7 +30,7 @@ namespace WebApplication1
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.AddDbContext<EventContext>(options => options.UseSqlServer("Server=.;Database=Event;Integrated Security=True;"));
+            services.AddDbContext<EventContext>(options => options.UseSqlServer("Server=.;Database=Event;Integrated Security=True;"));
             //services.AddDbContext<EventContext>(options => options.UseSqlServer("Server=eventsserver.database.windows.net;Database=events;User Id=hammad; Password=Mynameis@zatch; Trusted_Connection=False; MultipleActiveResultSets=true"));
 
 

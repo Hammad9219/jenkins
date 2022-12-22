@@ -1,10 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
-using WebApplication1.Data;
 using WebApplication1.Models;
 using WebApplication1.Repository;
 
@@ -22,6 +17,7 @@ namespace WebApplication1.Controllers
         {
             var data = await _eventRespository.GetEvents();
             return View(data);
+            7/90
         }
 
         public ViewResult CreateEvent(bool isSuccess = false)
@@ -30,10 +26,10 @@ namespace WebApplication1.Controllers
             return View();
         }
 
-        
+
         public ActionResult GetEventByTitle(string title)
         {
-            var  data = _eventRespository.GetEventByTitle(title);
+            var data = _eventRespository.GetEventByTitle(title);
             return View(data);
         }
 
@@ -80,7 +76,7 @@ namespace WebApplication1.Controllers
             //update student in DB using EntityFramework in real-life application
             //update list by removing old student and adding updated student for demo purpose
             var str = _eventRespository.EditEvent(eventModel);
-            _=_eventRespository.AddNewEvent(eventModel);
+            _ = _eventRespository.AddNewEvent(eventModel);
             return RedirectToAction("MyEvents");
         }
     }
