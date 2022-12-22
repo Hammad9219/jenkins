@@ -22,8 +22,7 @@ namespace WebApplication1
         
         public Startup(IConfiguration configuration)
         {
-            //Configuration = configuration;
-            
+            Configuration = configuration;
         }
 
         public IConfiguration Configuration { get; }
@@ -32,7 +31,7 @@ namespace WebApplication1
         public void ConfigureServices(IServiceCollection services)
         {
             //services.AddDbContext<EventContext>(options => options.UseSqlServer("Server=.;Database=Event;Integrated Security=True;"));
-            services.AddDbContext<EventContext>(options => options.UseSqlServer("Server=eventsserver.database.windows.net;Database=events;User Id=hammad; Password=Mynameis@zatch; Trusted_Connection=False; MultipleActiveResultSets=true"));
+            //services.AddDbContext<EventContext>(options => options.UseSqlServer("Server=eventsserver.database.windows.net;Database=events;User Id=hammad; Password=Mynameis@zatch; Trusted_Connection=False; MultipleActiveResultSets=true"));
 
 
             services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<EventContext>();
