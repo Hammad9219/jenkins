@@ -1,25 +1,10 @@
 ﻿pipeline {
-	agent any
-	stages {
-	stage('Build') {
-		steps {
-			echo 'Pipeline Build success'
-		}
-	}
-	stage('Deploy') {
-		steps {
-			echo 'Pipeline Deploy success'
-		}
-	}
-	stage('Test') {
-		steps {
-			echo 'Pipeline Test success'
-		}
-	}
-	stage('Release') {
-		steps {
-			echo 'Pipeline Release success'
-		}
-	}
-}
+    agent { docker { image 'maven:3.8.6-openjdk-11-slim' } }
+    stages {
+        stage('build') {
+            steps {
+                sh 'mvn --version'
+            }
+        }
+    }
 }
