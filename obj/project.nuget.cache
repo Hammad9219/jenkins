@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "T8Kxgn1iumf8X4W11REWS3Ua737KbNMCPR6DrXRHMk+QY4LlTi0P+8MQ2gjcsRMeGhTU6gLk0ul5kVe2kd6Flw==",
+  "dgSpecHash": "2zw+7161Oua3rQtwwripmmF2c92SWWZE2w+IfxxJI5J6JLl0yu4vXBP0QBYnQl23H+hdttDHP24Omb67gyyvVA==",
   "success": true,
   "projectFilePath": "D:\\jenkins\\WebApplication1.csproj",
   "expectedPackageFiles": [
@@ -83,6 +83,7 @@
     "C:\\Users\\mohammadhammad\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\mohammadhammad\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\mohammadhammad\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\mohammadhammad\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\mohammadhammad\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\3.1.5\\microsoft.visualstudio.web.codegeneration.3.1.5.nupkg.sha512",
     "C:\\Users\\mohammadhammad\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\3.1.5\\microsoft.visualstudio.web.codegeneration.contracts.3.1.5.nupkg.sha512",
     "C:\\Users\\mohammadhammad\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\3.1.5\\microsoft.visualstudio.web.codegeneration.core.3.1.5.nupkg.sha512",
