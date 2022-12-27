@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9H5ikhUpgnaxEyVWmt9Yg2GfgZ1G8Z3JhZqVPBiTd+l21/dOVEEL62WPU8OnJvtIZcMJJcvmhd4eMNwvF1qyXA==",
+  "dgSpecHash": "yEQR2pqzKVaJT6ggDE4oFJqqYPMw0305zUhFwyPUO+c/Wcgu1WmBC5QUiEQPPRWSAjUFQ73ZfFs3O1Y+8jv3pg==",
   "success": true,
-  "projectFilePath": "D:\\jenkins\\TestApp\\TestApp.csproj",
+  "projectFilePath": "D:\\jenkins\\TestApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

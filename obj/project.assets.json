@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\jenkins\\TestApp\\TestApp.csproj",
+      "projectUniqueName": "D:\\jenkins\\TestApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "D:\\jenkins\\TestApp\\TestApp.csproj",
+      "projectPath": "D:\\jenkins\\TestApp.csproj",
       "packagesPath": "C:\\Users\\mohammadhammad\\.nuget\\packages\\",
-      "outputPath": "D:\\jenkins\\TestApp\\obj\\",
+      "outputPath": "D:\\jenkins\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
