@@ -15,6 +15,7 @@ namespace WebApplication1.Controllers
 
         public async Task<ViewResult> GetEvents()
         {
+            gchgc/ougyhfv''
             var data = await _eventRespository.GetEvents();
             return View(data);
         }
