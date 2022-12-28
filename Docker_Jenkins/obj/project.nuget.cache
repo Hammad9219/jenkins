@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kXxvWra6V5B2YmNiehrwu59YPLkK+v8kqWaFp8AQyu70kovV+2qjoHWCd0aJ9CqJBKKmJFGX6/rU/sHZjXLZKg==",
+  "success": true,
+  "projectFilePath": "D:\\Docker_Jenkins\\Docker_Jenkins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohammadhammad\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
