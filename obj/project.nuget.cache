@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yEQR2pqzKVaJT6ggDE4oFJqqYPMw0305zUhFwyPUO+c/Wcgu1WmBC5QUiEQPPRWSAjUFQ73ZfFs3O1Y+8jv3pg==",
+  "dgSpecHash": "//f0aa5XH3vDlo8DUAiKXbAr2oUFOuVVcD/t6fQC6ISQxse3Ry9o6dsg/TX0GUQBO4A5yG4ZQiEUsgHL+jeteg==",
   "success": true,
   "projectFilePath": "D:\\jenkins\\TestApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mohammadhammad\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
   "logs": []
 }

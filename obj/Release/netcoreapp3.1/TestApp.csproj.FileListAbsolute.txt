@@ -35,3 +35,4 @@ D:\jenkins\obj\Release\netcoreapp3.1\TestApp.dll
 D:\jenkins\obj\Release\netcoreapp3.1\TestApp.pdb
 D:\jenkins\obj\Release\netcoreapp3.1\TestApp.genruntimeconfig.cache
 D:\jenkins\obj\Release\netcoreapp3.1\TestApp.csproj.CopyComplete
+D:\jenkins\obj\Release\netcoreapp3.1\TestApp.csproj.AssemblyReference.cache
