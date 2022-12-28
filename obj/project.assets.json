@@ -104,11 +104,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\jenkins\\dotnetdocker\\dotnetdocker.csproj",
+      "projectUniqueName": "D:\\jenkins\\dotnetdocker.csproj",
       "projectName": "dotnetdocker",
-      "projectPath": "D:\\jenkins\\dotnetdocker\\dotnetdocker.csproj",
+      "projectPath": "D:\\jenkins\\dotnetdocker.csproj",
       "packagesPath": "C:\\Users\\mohammadhammad\\.nuget\\packages\\",
-      "outputPath": "D:\\jenkins\\dotnetdocker\\obj\\",
+      "outputPath": "D:\\jenkins\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
