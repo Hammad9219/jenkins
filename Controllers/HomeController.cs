@@ -15,6 +15,7 @@ namespace MVCApp.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            //hamad f utf iuguy iguyf igiy iug iu
             _logger = logger;
         }
 
@@ -35,3 +36,18 @@ namespace MVCApp.Controllers
         }
     }
 }
+/*kjags coiaysc
+    asojoijhas 
+    asojdpoiasj d
+    as djipoasud a
+    dapsoudisa 
+    oaspodpasiojd 
+    aikaposdposuda
+    audiahsd'
+    aisdihaisdha
+    sdiaishdasd
+    iasodj'asjkd
+    asodiahsdoas
+    diasodho;AppDomain['
+          asdoaoiusgdiphas['das
+          aspidhp;asd ']']*/
